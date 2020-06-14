@@ -1,4 +1,4 @@
 # SunLight_illumination
  Module to determine illuminated polygon edges given a light source
 
-![](MoonTest.gif)
+![MoonTest](https://github.com/bharath-kamath705/SunLight_illumination/blob/master/MoonTest.gif)
